@@ -23,7 +23,7 @@
 |                                                                                                              |                                                                        |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | (✓) Criar um projeto de testes com Rest Assured do zero | (✓) Automatizar testes de regressão com Playwright | (✓) Fazer requisições em APIs Rest utilizando os verbos mais populares |
-| (✓) Fazer validações bem precisas, através de linguagens de consultas com o JsonPath, XmlPath e XPath        ! (✓) Fazer assertivas em cima dos dados de cabeçalho da resposta        |
+| (✓) Fazer validações bem precisas, através de linguagens de consultas com o JsonPath, XmlPath e XPath        | (✓) Fazer assertivas em cima dos dados de cabeçalho da resposta        |
 | (✓) Validar respostas a partir de esquemas                                                                   | (✓) Conhecer diversas formas de envio de dados nas requisiçõe          |
 | (✓) Trabalhar com diversas formas de autenticações em API                                                    |                                                                        |
 
