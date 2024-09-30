@@ -1,6 +1,6 @@
 package br.am.ericton.rest.suite;
 
-import br.am.com.ericton.rest.BaseTest;
+import br.am.ericton.rest.core.BaseTest;
 import br.am.ericton.rest.refac.AuthTest;
 import br.am.ericton.rest.refac.ContasTest;
 import br.am.ericton.rest.refac.MovimentacaoTest;

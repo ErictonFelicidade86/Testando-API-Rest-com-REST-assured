@@ -1,6 +1,6 @@
 package br.am.ericton.rest.refac;
 
-import br.am.com.ericton.rest.BaseTest;
+import br.am.ericton.rest.core.BaseTest;
 import io.restassured.RestAssured;
 import io.restassured.specification.FilterableRequestSpecification;
 import org.junit.Test;

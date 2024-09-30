@@ -1,4 +1,4 @@
-package br.am.com.ericton.rest;
+package br.am.ericton.rest.core;
 
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
@@ -6,7 +6,7 @@ import io.restassured.builder.ResponseSpecBuilder;
 import org.hamcrest.Matchers;
 import org.junit.BeforeClass;
 
-import static br.am.com.ericton.rest.Constantes.*;
+import static br.am.ericton.rest.core.Constantes.*;
 
 public class BaseTest {
 

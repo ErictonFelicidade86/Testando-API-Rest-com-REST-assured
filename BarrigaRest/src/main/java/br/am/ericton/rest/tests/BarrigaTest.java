@@ -1,6 +1,6 @@
 package br.am.ericton.rest.tests;
 
-import br.am.com.ericton.rest.BaseTest;
+import br.am.ericton.rest.core.BaseTest;
 import br.am.ericton.rest.utils.DataUtils;
 import io.restassured.RestAssured;
 import io.restassured.specification.FilterableRequestSpecification;

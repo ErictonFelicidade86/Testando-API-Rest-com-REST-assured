@@ -1,4 +1,4 @@
-package br.am.com.ericton.rest;
+package br.am.ericton.rest.core;
 
 import io.restassured.http.ContentType;
 

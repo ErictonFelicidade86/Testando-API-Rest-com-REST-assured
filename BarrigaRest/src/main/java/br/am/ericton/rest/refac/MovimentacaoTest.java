@@ -1,6 +1,6 @@
 package br.am.ericton.rest.refac;
 
-import br.am.com.ericton.rest.BaseTest;
+import br.am.ericton.rest.core.BaseTest;
 import br.am.ericton.rest.tests.Movimentacao;
 import br.am.ericton.rest.utils.DataUtils;
 import io.restassured.RestAssured;
